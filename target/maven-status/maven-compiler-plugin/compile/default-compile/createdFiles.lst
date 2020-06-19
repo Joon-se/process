@@ -1,0 +1,10 @@
+energyservice\PolicyHandler.class
+energyservice\Processed.class
+energyservice\AbstractEvent$1.class
+energyservice\config\kafka\KafkaProcessor.class
+energyservice\AbstractEvent.class
+energyservice\Application.class
+energyservice\ProcessController.class
+energyservice\ProcessRepository.class
+energyservice\Assigned.class
+energyservice\Process.class
